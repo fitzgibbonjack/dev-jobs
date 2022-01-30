@@ -11,8 +11,8 @@ A job board app. Allows a user to search and filter job listings, using the Adzu
 
 ## Built with
 
-- Semantic Markup
-- Scss
+- Semantic HTML5 Markup
 - React (create-react-app)
 - Fetch API (api interface)
 - Adzuna API (job listings)
+- SCSS
