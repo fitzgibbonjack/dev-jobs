@@ -1,6 +1,6 @@
 ## Overview
 
-A job board app. Allows a user to search and filter job listings, using the Adzuna API. Initially, intended to aggreagte job listings for development jobs only but the API I was planning to use was depricated.
+A job board app. Allows a user to search and filter job listings, using the Adzuna API. Initially, intended to aggregate job listings for development jobs only but the API I was planning to use was depricated.
 
 [Deployed website](https://dev-jobs.onrender.com/)
 
